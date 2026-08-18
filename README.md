@@ -10,10 +10,11 @@ bordercolor="black">
  <td width="20%">
  <!-- ini tabel foto -->
  <table border="0" style="border-collapse: collapse" width="100%"
-cellpadding="8" bordercolor="black">
+cellpadding="8" borde![Uploading image.png…]()
+rcolor="black">
  <tr>
  <td align="center" class="foto"><img border="1" height="100" width="150"
-src="foto/joko.jpg"></td>
+src=></td>
  </tr>
  </table> 
 
